@@ -1,1 +1,1 @@
-# chess-app-java-version
+# chess app java version
